@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "id": "himanshump",
+      "username": "himanshump",
+      "name": "Himanshu Patil",
+      "password": "himanshu123",
+      "designation": "ATL",
+      "team": [
+        {
+          "id": "kumars",
+          "username": "kumars",
+          "name": "Kumar Swami Akkanya",
+          "password": "kumar123",
+          "designation": "TM",
+          "mobile": "22222222222",
+          "age": "23",
+          "email": "kumar@gmal.com"
+        },
+        {
+          "id": "Chiranjeevi Sai Ibba",
+          "username": "Chiranjeevi Sai Ibba",
+          "name": "Chiranjeevi Sai Ibba",
+          "password": "chiranjeevi123",
+          "designation": "Developer",
+          "mobile": "09999999999",
+          "age": "23",
+          "email": "chiranjeeviibba@gmal.com"
+        },
+        {
+          "id": "Chandu Senapathi",
+          "username": "Chandu Senapathi",
+          "name": "Chandu Senapathi",
+          "password": "chandu123",
+          "designation": "Developer",
+          "mobile": "2222222222222",
+          "age": "23",
+          "email": "chandu@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "vipinsingh",
+      "username": "vipinsingh",
+      "name": "Vipin Singh",
+      "password": "vipinsingh123",
+      "designation": "ATL",
+      "team": [
+        {
+          "id": "rutujad",
+          "username": "rutujad",
+          "name": "HRutuja Dond",
+          "password": "rutuja123",
+          "designation": "TM",
+          "mobile": "2222222222",
+          "age": "23",
+          "email": "rutuja@gmal.com"
+        },
+        {
+          "id": "anikets",
+          "username": "anikets",
+          "name": "Aniket Chavan",
+          "password": "aniket123",
+          "designation": "TM",
+          "mobile": "2222222222",
+          "age": "23",
+          "email": "aniket@gmal.com"
+        },
+        {
+          "id": "aaa aaa",
+          "username": "akash",
+          "name": "Aakash Dubey",
+          "password": "akash123",
+          "designation": "Developer",
+          "mobile": "3333333333",
+          "age": "23",
+          "email": "akash@gmail.com"
+        }
+      ]
+    }
+  ]
+}
