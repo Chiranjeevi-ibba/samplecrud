@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samplecrud/static/css/main.b73162b1.css",
+    "main.js": "/samplecrud/static/js/main.018fa242.js",
+    "static/js/787.bb64b594.chunk.js": "/samplecrud/static/js/787.bb64b594.chunk.js",
+    "index.html": "/samplecrud/index.html",
+    "main.b73162b1.css.map": "/samplecrud/static/css/main.b73162b1.css.map",
+    "main.018fa242.js.map": "/samplecrud/static/js/main.018fa242.js.map",
+    "787.bb64b594.chunk.js.map": "/samplecrud/static/js/787.bb64b594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73162b1.css",
+    "static/js/main.018fa242.js"
+  ]
+}
